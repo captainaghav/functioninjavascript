@@ -1,0 +1,5 @@
+<script>
+function hello(){
+document.write("hello word");
+}
+hello();
